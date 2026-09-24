@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition2_属性\bin\Debug\net8.0\Addition2_属性.exe
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition2_属性\bin\Debug\net8.0\Addition2_属性.deps.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition2_属性\bin\Debug\net8.0\Addition2_属性.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition2_属性\bin\Debug\net8.0\Addition2_属性.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition2_属性\bin\Debug\net8.0\Addition2_属性.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition2_属性\obj\Debug\net8.0\Addition2_属性.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition2_属性\obj\Debug\net8.0\Addition2_属性.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition2_属性\obj\Debug\net8.0\Addition2_属性.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition2_属性\obj\Debug\net8.0\Addition2_属性.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition2_属性\obj\Debug\net8.0\Addition2_属性.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition2_属性\obj\Debug\net8.0\refint\Addition2_属性.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition2_属性\obj\Debug\net8.0\Addition2_属性.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition2_属性\obj\Debug\net8.0\Addition2_属性.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition2_属性\obj\Debug\net8.0\ref\Addition2_属性.dll

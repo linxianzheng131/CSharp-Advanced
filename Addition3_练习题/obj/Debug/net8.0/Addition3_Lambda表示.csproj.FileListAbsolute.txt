@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition3_练习题\bin\Debug\net8.0\Addition3_Lambda表示.exe
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition3_练习题\bin\Debug\net8.0\Addition3_Lambda表示.deps.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition3_练习题\bin\Debug\net8.0\Addition3_Lambda表示.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition3_练习题\bin\Debug\net8.0\Addition3_Lambda表示.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition3_练习题\bin\Debug\net8.0\Addition3_Lambda表示.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition3_练习题\obj\Debug\net8.0\Addition3_Lambda表示.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition3_练习题\obj\Debug\net8.0\Addition3_Lambda表示.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition3_练习题\obj\Debug\net8.0\Addition3_Lambda表示.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition3_练习题\obj\Debug\net8.0\Addition3_Lambda表示.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition3_练习题\obj\Debug\net8.0\Addition3_Lambda表示.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition3_练习题\obj\Debug\net8.0\refint\Addition3_Lambda表示.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition3_练习题\obj\Debug\net8.0\Addition3_Lambda表示.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition3_练习题\obj\Debug\net8.0\Addition3_Lambda表示.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition3_练习题\obj\Debug\net8.0\ref\Addition3_Lambda表示.dll
