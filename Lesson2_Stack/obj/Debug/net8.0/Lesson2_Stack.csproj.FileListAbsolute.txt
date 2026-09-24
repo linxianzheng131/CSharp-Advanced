@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson2_Stack\bin\Debug\net8.0\Lesson2_Stack.exe
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson2_Stack\bin\Debug\net8.0\Lesson2_Stack.deps.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson2_Stack\bin\Debug\net8.0\Lesson2_Stack.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson2_Stack\bin\Debug\net8.0\Lesson2_Stack.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson2_Stack\bin\Debug\net8.0\Lesson2_Stack.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson2_Stack\obj\Debug\net8.0\Lesson2_Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson2_Stack\obj\Debug\net8.0\Lesson2_Stack.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson2_Stack\obj\Debug\net8.0\Lesson2_Stack.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson2_Stack\obj\Debug\net8.0\Lesson2_Stack.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson2_Stack\obj\Debug\net8.0\Lesson2_Stack.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson2_Stack\obj\Debug\net8.0\refint\Lesson2_Stack.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson2_Stack\obj\Debug\net8.0\Lesson2_Stack.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson2_Stack\obj\Debug\net8.0\Lesson2_Stack.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson2_Stack\obj\Debug\net8.0\ref\Lesson2_Stack.dll
