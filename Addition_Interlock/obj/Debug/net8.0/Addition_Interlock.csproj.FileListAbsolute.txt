@@ -1,0 +1,4 @@
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition_Interlock\obj\Debug\net8.0\Addition_Interlock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition_Interlock\obj\Debug\net8.0\Addition_Interlock.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition_Interlock\obj\Debug\net8.0\Addition_Interlock.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition_Interlock\obj\Debug\net8.0\Addition_Interlock.csproj.CoreCompileInputs.cache

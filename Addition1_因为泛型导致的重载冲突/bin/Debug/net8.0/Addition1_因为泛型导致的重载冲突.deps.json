@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Addition1_因为泛型导致的重载冲突/1.0.0": {
+        "runtime": {
+          "Addition1_因为泛型导致的重载冲突.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Addition1_因为泛型导致的重载冲突/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

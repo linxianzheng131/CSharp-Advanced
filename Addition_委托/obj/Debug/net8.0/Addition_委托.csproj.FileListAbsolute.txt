@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition_委托\obj\Debug\net8.0\Addition_委托.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition_委托\obj\Debug\net8.0\Addition_委托.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition_委托\obj\Debug\net8.0\Addition_委托.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition_委托\obj\Debug\net8.0\Addition_委托.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition_委托\bin\Debug\net8.0\Addition_委托.exe
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition_委托\bin\Debug\net8.0\Addition_委托.deps.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition_委托\bin\Debug\net8.0\Addition_委托.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition_委托\bin\Debug\net8.0\Addition_委托.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition_委托\bin\Debug\net8.0\Addition_委托.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition_委托\obj\Debug\net8.0\Addition_委托.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition_委托\obj\Debug\net8.0\refint\Addition_委托.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition_委托\obj\Debug\net8.0\Addition_委托.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition_委托\obj\Debug\net8.0\Addition_委托.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Addition_委托\obj\Debug\net8.0\ref\Addition_委托.dll
