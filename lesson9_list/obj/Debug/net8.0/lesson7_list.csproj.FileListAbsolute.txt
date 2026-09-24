@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson9_list\bin\Debug\net8.0\lesson7_list.exe
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson9_list\bin\Debug\net8.0\lesson7_list.deps.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson9_list\bin\Debug\net8.0\lesson7_list.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson9_list\bin\Debug\net8.0\lesson7_list.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson9_list\bin\Debug\net8.0\lesson7_list.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson9_list\obj\Debug\net8.0\lesson7_list.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson9_list\obj\Debug\net8.0\lesson7_list.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson9_list\obj\Debug\net8.0\lesson7_list.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson9_list\obj\Debug\net8.0\lesson7_list.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson9_list\obj\Debug\net8.0\lesson7_list.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson9_list\obj\Debug\net8.0\refint\lesson7_list.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson9_list\obj\Debug\net8.0\lesson7_list.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson9_list\obj\Debug\net8.0\lesson7_list.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson9_list\obj\Debug\net8.0\ref\lesson7_list.dll

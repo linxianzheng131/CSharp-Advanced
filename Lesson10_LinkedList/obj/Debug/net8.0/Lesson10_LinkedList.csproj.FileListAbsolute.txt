@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson10_LinkedList\bin\Debug\net8.0\Lesson10_LinkedList.exe
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson10_LinkedList\bin\Debug\net8.0\Lesson10_LinkedList.deps.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson10_LinkedList\bin\Debug\net8.0\Lesson10_LinkedList.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson10_LinkedList\bin\Debug\net8.0\Lesson10_LinkedList.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson10_LinkedList\bin\Debug\net8.0\Lesson10_LinkedList.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson10_LinkedList\obj\Debug\net8.0\Lesson10_LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson10_LinkedList\obj\Debug\net8.0\Lesson10_LinkedList.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson10_LinkedList\obj\Debug\net8.0\Lesson10_LinkedList.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson10_LinkedList\obj\Debug\net8.0\Lesson10_LinkedList.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson10_LinkedList\obj\Debug\net8.0\Lesson10_LinkedList.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson10_LinkedList\obj\Debug\net8.0\refint\Lesson10_LinkedList.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson10_LinkedList\obj\Debug\net8.0\Lesson10_LinkedList.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson10_LinkedList\obj\Debug\net8.0\Lesson10_LinkedList.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson10_LinkedList\obj\Debug\net8.0\ref\Lesson10_LinkedList.dll
