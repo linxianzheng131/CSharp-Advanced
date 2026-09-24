@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson3_Queue\bin\Debug\net8.0\Lesson3_Queue.exe
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson3_Queue\bin\Debug\net8.0\Lesson3_Queue.deps.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson3_Queue\bin\Debug\net8.0\Lesson3_Queue.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson3_Queue\bin\Debug\net8.0\Lesson3_Queue.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson3_Queue\bin\Debug\net8.0\Lesson3_Queue.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson3_Queue\obj\Debug\net8.0\Lesson3_Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson3_Queue\obj\Debug\net8.0\Lesson3_Queue.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson3_Queue\obj\Debug\net8.0\Lesson3_Queue.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson3_Queue\obj\Debug\net8.0\Lesson3_Queue.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson3_Queue\obj\Debug\net8.0\Lesson3_Queue.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson3_Queue\obj\Debug\net8.0\refint\Lesson3_Queue.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson3_Queue\obj\Debug\net8.0\Lesson3_Queue.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson3_Queue\obj\Debug\net8.0\Lesson3_Queue.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson3_Queue\obj\Debug\net8.0\ref\Lesson3_Queue.dll
