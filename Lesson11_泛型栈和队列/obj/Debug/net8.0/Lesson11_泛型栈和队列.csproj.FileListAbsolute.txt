@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson11_泛型栈和队列\bin\Debug\net8.0\Lesson11_泛型栈和队列.exe
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson11_泛型栈和队列\bin\Debug\net8.0\Lesson11_泛型栈和队列.deps.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson11_泛型栈和队列\bin\Debug\net8.0\Lesson11_泛型栈和队列.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson11_泛型栈和队列\bin\Debug\net8.0\Lesson11_泛型栈和队列.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson11_泛型栈和队列\bin\Debug\net8.0\Lesson11_泛型栈和队列.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson11_泛型栈和队列\obj\Debug\net8.0\Lesson11_泛型栈和队列.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson11_泛型栈和队列\obj\Debug\net8.0\Lesson11_泛型栈和队列.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson11_泛型栈和队列\obj\Debug\net8.0\Lesson11_泛型栈和队列.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson11_泛型栈和队列\obj\Debug\net8.0\Lesson11_泛型栈和队列.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson11_泛型栈和队列\obj\Debug\net8.0\Lesson11_泛型栈和队列.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson11_泛型栈和队列\obj\Debug\net8.0\refint\Lesson11_泛型栈和队列.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson11_泛型栈和队列\obj\Debug\net8.0\Lesson11_泛型栈和队列.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson11_泛型栈和队列\obj\Debug\net8.0\Lesson11_泛型栈和队列.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson11_泛型栈和队列\obj\Debug\net8.0\ref\Lesson11_泛型栈和队列.dll
