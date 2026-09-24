@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson15_lambda\bin\Debug\net8.0\Lesson15_lambda.exe
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson15_lambda\bin\Debug\net8.0\Lesson15_lambda.deps.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson15_lambda\bin\Debug\net8.0\Lesson15_lambda.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson15_lambda\bin\Debug\net8.0\Lesson15_lambda.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson15_lambda\bin\Debug\net8.0\Lesson15_lambda.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson15_lambda\obj\Debug\net8.0\Lesson15_lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson15_lambda\obj\Debug\net8.0\Lesson15_lambda.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson15_lambda\obj\Debug\net8.0\Lesson15_lambda.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson15_lambda\obj\Debug\net8.0\Lesson15_lambda.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson15_lambda\obj\Debug\net8.0\Lesson15_lambda.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson15_lambda\obj\Debug\net8.0\refint\Lesson15_lambda.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson15_lambda\obj\Debug\net8.0\Lesson15_lambda.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson15_lambda\obj\Debug\net8.0\Lesson15_lambda.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson15_lambda\obj\Debug\net8.0\ref\Lesson15_lambda.dll
