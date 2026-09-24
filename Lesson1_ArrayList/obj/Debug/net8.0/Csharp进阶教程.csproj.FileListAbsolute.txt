@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Csharp进阶教程\bin\Debug\net8.0\Csharp进阶教程.exe
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Csharp进阶教程\bin\Debug\net8.0\Csharp进阶教程.deps.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Csharp进阶教程\bin\Debug\net8.0\Csharp进阶教程.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Csharp进阶教程\bin\Debug\net8.0\Csharp进阶教程.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Csharp进阶教程\bin\Debug\net8.0\Csharp进阶教程.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Csharp进阶教程\obj\Debug\net8.0\Csharp进阶教程.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Csharp进阶教程\obj\Debug\net8.0\Csharp进阶教程.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Csharp进阶教程\obj\Debug\net8.0\Csharp进阶教程.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Csharp进阶教程\obj\Debug\net8.0\Csharp进阶教程.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Csharp进阶教程\obj\Debug\net8.0\Csharp进阶教程.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Csharp进阶教程\obj\Debug\net8.0\refint\Csharp进阶教程.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Csharp进阶教程\obj\Debug\net8.0\Csharp进阶教程.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Csharp进阶教程\obj\Debug\net8.0\Csharp进阶教程.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Csharp进阶教程\obj\Debug\net8.0\ref\Csharp进阶教程.dll
