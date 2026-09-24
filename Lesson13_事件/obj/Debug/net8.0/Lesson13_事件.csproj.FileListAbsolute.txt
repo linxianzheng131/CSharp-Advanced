@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson13_事件\bin\Debug\net8.0\Lesson13_事件.exe
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson13_事件\bin\Debug\net8.0\Lesson13_事件.deps.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson13_事件\bin\Debug\net8.0\Lesson13_事件.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson13_事件\bin\Debug\net8.0\Lesson13_事件.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson13_事件\bin\Debug\net8.0\Lesson13_事件.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson13_事件\obj\Debug\net8.0\Lesson13_事件.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson13_事件\obj\Debug\net8.0\Lesson13_事件.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson13_事件\obj\Debug\net8.0\Lesson13_事件.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson13_事件\obj\Debug\net8.0\Lesson13_事件.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson13_事件\obj\Debug\net8.0\Lesson13_事件.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson13_事件\obj\Debug\net8.0\refint\Lesson13_事件.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson13_事件\obj\Debug\net8.0\Lesson13_事件.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson13_事件\obj\Debug\net8.0\Lesson13_事件.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson13_事件\obj\Debug\net8.0\ref\Lesson13_事件.dll

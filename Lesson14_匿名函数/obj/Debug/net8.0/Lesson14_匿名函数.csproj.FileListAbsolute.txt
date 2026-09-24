@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson14_匿名函数\bin\Debug\net8.0\Lesson14_匿名函数.exe
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson14_匿名函数\bin\Debug\net8.0\Lesson14_匿名函数.deps.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson14_匿名函数\bin\Debug\net8.0\Lesson14_匿名函数.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson14_匿名函数\bin\Debug\net8.0\Lesson14_匿名函数.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson14_匿名函数\bin\Debug\net8.0\Lesson14_匿名函数.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson14_匿名函数\obj\Debug\net8.0\Lesson14_匿名函数.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson14_匿名函数\obj\Debug\net8.0\Lesson14_匿名函数.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson14_匿名函数\obj\Debug\net8.0\Lesson14_匿名函数.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson14_匿名函数\obj\Debug\net8.0\Lesson14_匿名函数.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson14_匿名函数\obj\Debug\net8.0\Lesson14_匿名函数.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson14_匿名函数\obj\Debug\net8.0\refint\Lesson14_匿名函数.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson14_匿名函数\obj\Debug\net8.0\Lesson14_匿名函数.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson14_匿名函数\obj\Debug\net8.0\Lesson14_匿名函数.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson14_匿名函数\obj\Debug\net8.0\ref\Lesson14_匿名函数.dll
