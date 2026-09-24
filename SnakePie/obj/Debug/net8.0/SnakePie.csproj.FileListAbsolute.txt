@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\SnakePie\bin\Debug\net8.0\SnakePie.exe
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\SnakePie\bin\Debug\net8.0\SnakePie.deps.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\SnakePie\bin\Debug\net8.0\SnakePie.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\SnakePie\bin\Debug\net8.0\SnakePie.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\SnakePie\bin\Debug\net8.0\SnakePie.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\SnakePie\obj\Debug\net8.0\SnakePie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\SnakePie\obj\Debug\net8.0\SnakePie.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\SnakePie\obj\Debug\net8.0\SnakePie.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\SnakePie\obj\Debug\net8.0\SnakePie.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\SnakePie\obj\Debug\net8.0\SnakePie.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\SnakePie\obj\Debug\net8.0\refint\SnakePie.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\SnakePie\obj\Debug\net8.0\SnakePie.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\SnakePie\obj\Debug\net8.0\SnakePie.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\SnakePie\obj\Debug\net8.0\ref\SnakePie.dll

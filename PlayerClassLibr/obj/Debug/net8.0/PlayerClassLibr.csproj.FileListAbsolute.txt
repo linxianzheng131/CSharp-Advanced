@@ -1,0 +1,11 @@
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\PlayerClassLibr\bin\Debug\net8.0\PlayerClassLibr.deps.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\PlayerClassLibr\bin\Debug\net8.0\PlayerClassLibr.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\PlayerClassLibr\bin\Debug\net8.0\PlayerClassLibr.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\PlayerClassLibr\obj\Debug\net8.0\PlayerClassLibr.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\PlayerClassLibr\obj\Debug\net8.0\PlayerClassLibr.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\PlayerClassLibr\obj\Debug\net8.0\PlayerClassLibr.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\PlayerClassLibr\obj\Debug\net8.0\PlayerClassLibr.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\PlayerClassLibr\obj\Debug\net8.0\PlayerClassLibr.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\PlayerClassLibr\obj\Debug\net8.0\refint\PlayerClassLibr.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\PlayerClassLibr\obj\Debug\net8.0\PlayerClassLibr.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\PlayerClassLibr\obj\Debug\net8.0\ref\PlayerClassLibr.dll

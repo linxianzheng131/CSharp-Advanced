@@ -1,0 +1,11 @@
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\类库文件知识\bin\Debug\net8.0\类库文件知识.deps.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\类库文件知识\bin\Debug\net8.0\类库文件知识.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\类库文件知识\bin\Debug\net8.0\类库文件知识.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\类库文件知识\obj\Debug\net8.0\类库文件知识.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\类库文件知识\obj\Debug\net8.0\类库文件知识.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\类库文件知识\obj\Debug\net8.0\类库文件知识.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\类库文件知识\obj\Debug\net8.0\类库文件知识.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\类库文件知识\obj\Debug\net8.0\类库文件知识.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\类库文件知识\obj\Debug\net8.0\refint\类库文件知识.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\类库文件知识\obj\Debug\net8.0\类库文件知识.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\类库文件知识\obj\Debug\net8.0\ref\类库文件知识.dll
