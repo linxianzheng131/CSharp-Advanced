@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson23_特殊写法\bin\Debug\net8.0\Lesson23_特殊写法.exe
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson23_特殊写法\bin\Debug\net8.0\Lesson23_特殊写法.deps.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson23_特殊写法\bin\Debug\net8.0\Lesson23_特殊写法.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson23_特殊写法\bin\Debug\net8.0\Lesson23_特殊写法.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson23_特殊写法\bin\Debug\net8.0\Lesson23_特殊写法.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson23_特殊写法\obj\Debug\net8.0\Lesson23_特殊写法.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson23_特殊写法\obj\Debug\net8.0\Lesson23_特殊写法.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson23_特殊写法\obj\Debug\net8.0\Lesson23_特殊写法.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson23_特殊写法\obj\Debug\net8.0\Lesson23_特殊写法.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson23_特殊写法\obj\Debug\net8.0\Lesson23_特殊写法.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson23_特殊写法\obj\Debug\net8.0\refint\Lesson23_特殊写法.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson23_特殊写法\obj\Debug\net8.0\Lesson23_特殊写法.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson23_特殊写法\obj\Debug\net8.0\Lesson23_特殊写法.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson23_特殊写法\obj\Debug\net8.0\ref\Lesson23_特殊写法.dll
