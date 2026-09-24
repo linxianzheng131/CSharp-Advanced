@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson18_多线程\bin\Debug\net8.0\Lesson18_多线程.exe
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson18_多线程\bin\Debug\net8.0\Lesson18_多线程.deps.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson18_多线程\bin\Debug\net8.0\Lesson18_多线程.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson18_多线程\bin\Debug\net8.0\Lesson18_多线程.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson18_多线程\bin\Debug\net8.0\Lesson18_多线程.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson18_多线程\obj\Debug\net8.0\Lesson18_多线程.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson18_多线程\obj\Debug\net8.0\Lesson18_多线程.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson18_多线程\obj\Debug\net8.0\Lesson18_多线程.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson18_多线程\obj\Debug\net8.0\Lesson18_多线程.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson18_多线程\obj\Debug\net8.0\Lesson18_多线程.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson18_多线程\obj\Debug\net8.0\refint\Lesson18_多线程.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson18_多线程\obj\Debug\net8.0\Lesson18_多线程.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson18_多线程\obj\Debug\net8.0\Lesson18_多线程.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson18_多线程\obj\Debug\net8.0\ref\Lesson18_多线程.dll
