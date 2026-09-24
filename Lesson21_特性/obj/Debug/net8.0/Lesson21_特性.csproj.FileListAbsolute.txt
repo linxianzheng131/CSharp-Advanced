@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson21_特性\bin\Debug\net8.0\Lesson21_特性.exe
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson21_特性\bin\Debug\net8.0\Lesson21_特性.deps.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson21_特性\bin\Debug\net8.0\Lesson21_特性.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson21_特性\bin\Debug\net8.0\Lesson21_特性.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson21_特性\bin\Debug\net8.0\Lesson21_特性.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson21_特性\obj\Debug\net8.0\Lesson21_特性.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson21_特性\obj\Debug\net8.0\Lesson21_特性.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson21_特性\obj\Debug\net8.0\Lesson21_特性.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson21_特性\obj\Debug\net8.0\Lesson21_特性.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson21_特性\obj\Debug\net8.0\Lesson21_特性.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson21_特性\obj\Debug\net8.0\refint\Lesson21_特性.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson21_特性\obj\Debug\net8.0\Lesson21_特性.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson21_特性\obj\Debug\net8.0\Lesson21_特性.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson21_特性\obj\Debug\net8.0\ref\Lesson21_特性.dll
