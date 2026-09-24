@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson20_反射\bin\Debug\net8.0\Lesson20_反射.exe
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson20_反射\bin\Debug\net8.0\Lesson20_反射.deps.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson20_反射\bin\Debug\net8.0\Lesson20_反射.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson20_反射\bin\Debug\net8.0\Lesson20_反射.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson20_反射\bin\Debug\net8.0\Lesson20_反射.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson20_反射\obj\Debug\net8.0\Lesson20_反射.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson20_反射\obj\Debug\net8.0\Lesson20_反射.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson20_反射\obj\Debug\net8.0\Lesson20_反射.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson20_反射\obj\Debug\net8.0\Lesson20_反射.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson20_反射\obj\Debug\net8.0\Lesson20_反射.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson20_反射\obj\Debug\net8.0\refint\Lesson20_反射.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson20_反射\obj\Debug\net8.0\Lesson20_反射.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson20_反射\obj\Debug\net8.0\Lesson20_反射.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson20_反射\obj\Debug\net8.0\ref\Lesson20_反射.dll

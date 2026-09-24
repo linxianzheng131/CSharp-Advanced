@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson20_练习题\bin\Debug\net8.0\lesson20_练习题.exe
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson20_练习题\bin\Debug\net8.0\lesson20_练习题.deps.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson20_练习题\bin\Debug\net8.0\lesson20_练习题.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson20_练习题\bin\Debug\net8.0\lesson20_练习题.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson20_练习题\bin\Debug\net8.0\lesson20_练习题.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson20_练习题\obj\Debug\net8.0\lesson20_练习题.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson20_练习题\obj\Debug\net8.0\lesson20_练习题.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson20_练习题\obj\Debug\net8.0\lesson20_练习题.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson20_练习题\obj\Debug\net8.0\lesson20_练习题.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson20_练习题\obj\Debug\net8.0\lesson20_练习题.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson20_练习题\obj\Debug\net8.0\refint\lesson20_练习题.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson20_练习题\obj\Debug\net8.0\lesson20_练习题.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson20_练习题\obj\Debug\net8.0\lesson20_练习题.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\lesson20_练习题\obj\Debug\net8.0\ref\lesson20_练习题.dll
