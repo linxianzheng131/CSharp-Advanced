@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson4_Hashtable\bin\Debug\net8.0\Lesson4_Hashtable.exe
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson4_Hashtable\bin\Debug\net8.0\Lesson4_Hashtable.deps.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson4_Hashtable\bin\Debug\net8.0\Lesson4_Hashtable.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson4_Hashtable\bin\Debug\net8.0\Lesson4_Hashtable.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson4_Hashtable\bin\Debug\net8.0\Lesson4_Hashtable.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson4_Hashtable\obj\Debug\net8.0\Lesson4_Hashtable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson4_Hashtable\obj\Debug\net8.0\Lesson4_Hashtable.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson4_Hashtable\obj\Debug\net8.0\Lesson4_Hashtable.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson4_Hashtable\obj\Debug\net8.0\Lesson4_Hashtable.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson4_Hashtable\obj\Debug\net8.0\Lesson4_Hashtable.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson4_Hashtable\obj\Debug\net8.0\refint\Lesson4_Hashtable.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson4_Hashtable\obj\Debug\net8.0\Lesson4_Hashtable.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson4_Hashtable\obj\Debug\net8.0\Lesson4_Hashtable.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson4_Hashtable\obj\Debug\net8.0\ref\Lesson4_Hashtable.dll
