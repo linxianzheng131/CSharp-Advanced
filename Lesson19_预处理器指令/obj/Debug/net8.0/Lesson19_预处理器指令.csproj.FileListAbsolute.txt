@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson19_预处理器指令\bin\Debug\net8.0\Lesson19_预处理器指令.exe
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson19_预处理器指令\bin\Debug\net8.0\Lesson19_预处理器指令.deps.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson19_预处理器指令\bin\Debug\net8.0\Lesson19_预处理器指令.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson19_预处理器指令\bin\Debug\net8.0\Lesson19_预处理器指令.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson19_预处理器指令\bin\Debug\net8.0\Lesson19_预处理器指令.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson19_预处理器指令\obj\Debug\net8.0\Lesson19_预处理器指令.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson19_预处理器指令\obj\Debug\net8.0\Lesson19_预处理器指令.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson19_预处理器指令\obj\Debug\net8.0\Lesson19_预处理器指令.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson19_预处理器指令\obj\Debug\net8.0\Lesson19_预处理器指令.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson19_预处理器指令\obj\Debug\net8.0\Lesson19_预处理器指令.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson19_预处理器指令\obj\Debug\net8.0\refint\Lesson19_预处理器指令.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson19_预处理器指令\obj\Debug\net8.0\Lesson19_预处理器指令.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson19_预处理器指令\obj\Debug\net8.0\Lesson19_预处理器指令.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson19_预处理器指令\obj\Debug\net8.0\ref\Lesson19_预处理器指令.dll
