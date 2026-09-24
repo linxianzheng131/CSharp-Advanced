@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson8_Dictionary\bin\Debug\net8.0\Lesson8_Dictionary.exe
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson8_Dictionary\bin\Debug\net8.0\Lesson8_Dictionary.deps.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson8_Dictionary\bin\Debug\net8.0\Lesson8_Dictionary.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson8_Dictionary\bin\Debug\net8.0\Lesson8_Dictionary.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson8_Dictionary\bin\Debug\net8.0\Lesson8_Dictionary.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson8_Dictionary\obj\Debug\net8.0\Lesson8_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson8_Dictionary\obj\Debug\net8.0\Lesson8_Dictionary.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson8_Dictionary\obj\Debug\net8.0\Lesson8_Dictionary.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson8_Dictionary\obj\Debug\net8.0\Lesson8_Dictionary.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson8_Dictionary\obj\Debug\net8.0\Lesson8_Dictionary.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson8_Dictionary\obj\Debug\net8.0\refint\Lesson8_Dictionary.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson8_Dictionary\obj\Debug\net8.0\Lesson8_Dictionary.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson8_Dictionary\obj\Debug\net8.0\Lesson8_Dictionary.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\Lesson8_Dictionary\obj\Debug\net8.0\ref\Lesson8_Dictionary.dll
