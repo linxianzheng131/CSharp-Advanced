@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\exame\bin\Debug\net8.0\exame.exe
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\exame\bin\Debug\net8.0\exame.deps.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\exame\bin\Debug\net8.0\exame.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\exame\bin\Debug\net8.0\exame.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\exame\bin\Debug\net8.0\exame.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\exame\obj\Debug\net8.0\exame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\exame\obj\Debug\net8.0\exame.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\exame\obj\Debug\net8.0\exame.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\exame\obj\Debug\net8.0\exame.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\exame\obj\Debug\net8.0\exame.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\exame\obj\Debug\net8.0\refint\exame.dll
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\exame\obj\Debug\net8.0\exame.pdb
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\exame\obj\Debug\net8.0\exame.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp进阶教程\Csharp进阶教程\exame\obj\Debug\net8.0\ref\exame.dll
